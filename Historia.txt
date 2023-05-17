@@ -1,6 +1,6 @@
-Esta es la historia de Freddy Vega
+oEsta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia,
-Esta es la linea que hace gerardo
+this is a fork of blogpost by  gerardo
 
 Mañana nos enfocaremos en su vida laboral
